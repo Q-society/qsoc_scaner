@@ -6,7 +6,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Kali%20%7C%20Termux-success)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Stars](https://img.shields.io/github/stars/Q-society/qsoc_scaner?style=social)
 ![Issues](https://img.shields.io/github/issues/Q-society/qsoc_scaner?color=red)
 ![Last Commit](https://img.shields.io/github/last-commit/Q-society/qsoc_scaner)
@@ -80,12 +79,6 @@ This framework is strictly intended for **educational research, legal OSINT inve
 Pull requests and issues are welcome! Feel free to contribute new platform support or report bugs.
 
 <div align="center">
-
-## 📄 License
-
-This project is open-source under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
 
 ⭐ If you find this useful, consider giving it a star!
 
