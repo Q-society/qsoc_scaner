@@ -21,9 +21,8 @@ Unlike traditional single-threaded lookup tools, this engine deploys a parallel 
 
 ---
 
-## 🚀 Installation & Deployment
+## ## 💻 Kali Linux Installation
 
-### 💻 1. Kali Linux / Parrot OS Environment
 ```bash
 sudo apt update && sudo apt install git python3 python3-pip -y
 git clone [https://github.com/Q-society/qsoc_scaner.git](https://github.com/Q-society/qsoc_scaner.git)
@@ -31,7 +30,7 @@ cd qsoc_scaner
 pip3 install requests colorama
 python3 qsoc_scanner.py
 
-📱 2. Termux Architecture (Android Emulator)
+## 📱 Termux Installation
 Bash
 
 pkg update && pkg upgrade -y
